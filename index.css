@@ -1,9 +1,6 @@
 body {
-    
-    background: url(../image/Bg\ Bubbles\ \(2\).png),  #2A2A2A;
+    background: url("image/Bg Bubbles (2).png") #2A2A2A;
     background-repeat: no-repeat;
-
-
 }
 
 .design{
@@ -51,7 +48,7 @@ body {
     width: 670px;
     height: 670px;
     margin-left: 40px;
-    background: url(../image/dots\ \(1\).png);
+    background: url("../image/dots (1).png");
     background-repeat: no-repeat;
     
     /* background-color: violet; */
@@ -313,7 +310,7 @@ justify-content: space-between;
 }
 
 .ass{
-    background: url(../image/Group\ 80.png);
+    background: url("../image/Group 80.png");
     background-repeat: no-repeat;
     height: 631px;
     width: 605px;
